@@ -9182,12 +9182,13 @@
     "C:\\Users\\SchultzPC\\.nuget\\packages\\": {}
   },
   "project": {
+    "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SchultzPC\\Documents\\Visual Studio 2017\\Projects\\OdeToFood\\src\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\Users\\SchultzPC\\documents\\visual studio 2017\\Projects\\OdeToFood\\src\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "C:\\Users\\SchultzPC\\Documents\\Visual Studio 2017\\Projects\\OdeToFood\\src\\OdeToFood\\OdeToFood.csproj",
-      "outputPath": "C:\\Users\\SchultzPC\\Documents\\Visual Studio 2017\\Projects\\OdeToFood\\src\\OdeToFood\\obj\\",
-      "outputType": "NETCore",
+      "projectPath": "C:\\Users\\SchultzPC\\documents\\visual studio 2017\\Projects\\OdeToFood\\src\\OdeToFood\\OdeToFood.csproj",
+      "outputPath": "C:\\Users\\SchultzPC\\documents\\visual studio 2017\\Projects\\OdeToFood\\src\\OdeToFood\\obj\\",
+      "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
       ],
